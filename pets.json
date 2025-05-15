@@ -2,8 +2,8 @@
     "pets": [
         {
             "name": "Gray Neko",
-            "folder": "GrayNekoPet",
-            "description": "Gray cat with run and sleep actions only",
+            "folder": ".",
+            "description": "Gray cat with run and sleep actions only (root folder version)",
             "author": "ChatGPT",
             "actions": [
                 "run",
