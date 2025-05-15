@@ -1,0 +1,17 @@
+{
+    "pets": [
+        {
+            "name": "Gray Neko",
+            "folder": "GrayNekoPet",
+            "description": "An upgraded gray cat with multiple actions",
+            "author": "ChatGPT",
+            "actions": [
+                "run",
+                "sleep",
+                "sit",
+                "jump",
+                "lick"
+            ]
+        }
+    ]
+}
