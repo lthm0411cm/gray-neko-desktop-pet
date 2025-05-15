@@ -3,14 +3,11 @@
         {
             "name": "Gray Neko",
             "folder": "GrayNekoPet",
-            "description": "An upgraded gray cat with multiple actions",
+            "description": "Gray cat with run and sleep actions only",
             "author": "ChatGPT",
             "actions": [
                 "run",
-                "sleep",
-                "sit",
-                "jump",
-                "lick"
+                "sleep"
             ]
         }
     ]
